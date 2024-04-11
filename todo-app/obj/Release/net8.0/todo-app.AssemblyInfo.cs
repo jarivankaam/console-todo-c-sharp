@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("todo-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbb6b9b2171f21614f1d58d5a8dd766a8b3a3674")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894c5053fdcaf07cf8330c5650c39a1df1208db8")]
 [assembly: System.Reflection.AssemblyProductAttribute("todo-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("todo-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
